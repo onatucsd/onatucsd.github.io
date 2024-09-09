@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Onat Gungor / Website"
+title                    : "Onat Gungor"
 title_separator          : "-"
 name                     : &name "Onat Gungor"
 description              : &description "Postdoctoral Scholar"
