@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, UC San Diego & San Diego State University, 2023
+* B.S. in Computer Science and Engineering, Ozyegin University, 2019
+* B.S. in Industrial Engineering, Ozyegin University, 2018
 
-Work experience
+Academic Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2024 -- Current: Postdoctoral Scholar
+  * UC San Diego
+  * At System Energy Efficiency Lab, working on time-series anomaly detection, ML security against adversarial attacks, self-supervised, continual learning solutions for IoT security, and ML-based network and host intrusion detection.
+  * Supervisor: Tajana Rosing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 -- December 2023: Graduate Student Researcher
+  * UC San Diego & San Diego State University
+  * Sample projects during my PhD include 1) robust layered defense for intrusion detection against adversarial attacks, 2) hyperdimensional computing adversarial attack design for secure IIoT, 3) resilient stacking ensemble against adversarial attacks for remaining useful life estimation, 4) diversity-induced optimally weighted ensemble learning for IIoT predictive analytics, and 5) robust indoor sensor placement under distance uncertainty.
+  * Supervisors: Tajana Rosing and Baris Aksanli 
   
 Skills
 ======
@@ -45,12 +40,6 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
