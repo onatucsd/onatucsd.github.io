@@ -17,24 +17,11 @@ Education
 
 Academic Work experience
 ======
-* January 2024 -- Current: Postdoctoral Scholar
-  * UC San Diego
-  * At System Energy Efficiency Lab, working on time-series anomaly detection, ML security against adversarial attacks, self-supervised, continual learning solutions for IoT security, and ML-based network and host intrusion detection.
-  * Supervisor: Tajana Rosing
+* January 2024 -- Current: Postdoctoral Scholar (UC San Diego)
+  * Sample projects include time-series anomaly detection, ML security against adversarial attacks, self-supervised, continual learning solutions for IoT security, and ML-based network and host intrusion detection.
 
-* September 2019 -- December 2023: Graduate Student Researcher
-  * UC San Diego & San Diego State University
-  * Sample projects during my PhD include 1) robust layered defense for intrusion detection against adversarial attacks, 2) hyperdimensional computing adversarial attack design for secure IIoT, 3) resilient stacking ensemble against adversarial attacks for remaining useful life estimation, 4) diversity-induced optimally weighted ensemble learning for IIoT predictive analytics, and 5) robust indoor sensor placement under distance uncertainty.
-  * Supervisors: Tajana Rosing and Baris Aksanli 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2019 -- December 2023: Graduate Student Researcher (UC San Diego & San Diego State University)
+  * Sample projects include robust layered defense for intrusion detection against adversarial attacks, hyperdimensional computing adversarial attack design, resilient stacking ensemble against adversarial attacks for remaining useful life estimation, diversity-induced optimally weighted ensemble learning for IIoT predictive analytics, and robust indoor sensor placement under distance uncertainty.
 
 Publications
 ======
