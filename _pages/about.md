@@ -13,6 +13,6 @@ News
 ======
 * [09/24] Paper accepted in [ASP-DAC 2025](https://www.aspdac.com/aspdac2025/)! 
 * [08/24] Paper accepted in [ICPR 2024](https://icpr2024.org/)!
-* [07/24] Paper accepted in [IEEE/ACM ICCAD 2024](https://2024.iccad.com/)!
-* [06/24] Two papers accepted in [IEEE CSR 2024](https://www.ieee-csr.org/)!
+* [07/24] Paper accepted in [ICCAD 2024](https://2024.iccad.com/)!
+* [06/24] Two papers accepted in [CSR 2024](https://www.ieee-csr.org/)!
 * [11/23] Paper accepted in [DATE 2024](https://www.date-conference.com/)! 
