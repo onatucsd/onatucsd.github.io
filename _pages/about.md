@@ -15,4 +15,6 @@ News
 * [08/24] Paper accepted in [ICPR 2024](https://icpr2024.org/)!
 * [07/24] Paper accepted in [ICCAD 2024](https://2024.iccad.com/)!
 * [06/24] Two papers accepted in [CSR 2024](https://www.ieee-csr.org/)!
+* [01/24] Started a new position as a postdoctoral scholar!
+* [12/23] Defended my PhD thesis! 
 * [11/23] Paper accepted in [DATE 2024](https://www.date-conference.com/)! 
