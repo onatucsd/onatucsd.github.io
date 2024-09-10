@@ -20,4 +20,4 @@ News
 * [11/23] Paper accepted in [DATE 2024](https://www.date-conference.com/)!
 * [06/23] Paper accepted in [SmartNets 2023](https://smartnets.ieee.tn/)!
 * [05/23] Our paper received the best paper runner-up award in [SafeThings 2023](https://safe-things-2023.github.io/)!
-* [03/23] Paper accepted in [SafeThings 2023](https://safe-things-2023.github.io/)
+* [03/23] Paper accepted in [SafeThings 2023](https://safe-things-2023.github.io/)!
