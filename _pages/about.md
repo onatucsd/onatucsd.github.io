@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and Engineering department at UC San Diego, advised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/). I have received my Ph.D. from UC San Diego and San Diego State University in December 2023. My research lies at the intersection of machine learning, security, and the Internet of Things. I am actively involved in several research centers including PRISM, COCOSYS, and TILOS; as well as collaborate with Intel Labs, and Lawrence Berkeley Lab on various research projects.
+My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and Engineering department at UC San Diego, advised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/). I have received my Ph.D. from UC San Diego and San Diego State University in December 2023. My research lies at the intersection of machine learning, security, and the Internet of Things. I am actively involved in several research centers including [PRISM](https://prism.ucsd.edu/), [CoCoSys](https://cocosys.ece.gatech.edu/), and [TILOS](https://tilos.ai/); as well as collaborate with [Intel Labs](https://www.intel.com/content/www/us/en/research/ai.html), and [Lawrence Berkeley Lab](https://www.es.net/) on various research projects.
 
 News
 ======
@@ -17,4 +17,7 @@ News
 * [06/24] Two papers accepted in [CSR 2024](https://www.ieee-csr.org/)!
 * [01/24] Started a new position as a postdoctoral scholar!
 * [12/23] Defended my PhD thesis! 
-* [11/23] Paper accepted in [DATE 2024](https://www.date-conference.com/)! 
+* [11/23] Paper accepted in [DATE 2024](https://www.date-conference.com/)!
+* [06/23] Paper accepted in [SmartNets 2023](https://smartnets.ieee.tn/)!
+* [05/23] Our paper received the best paper runner-up award in [SafeThings 2023](https://safe-things-2023.github.io/)!
+* [03/23] Paper accepted in [SafeThings 2023](https://safe-things-2023.github.io/)
