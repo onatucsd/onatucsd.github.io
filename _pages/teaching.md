@@ -8,11 +8,11 @@ author_profile: true
 
 ## Instructor
 * **CSE 15L – UC San Diego, Computer Science and Engineering Department (Fa23, Sp22)**
-  * Instructing the undergraduate level course “Software Tools and Techniques”.
+  * Instructed the undergraduate level course “Software Tools and Techniques”.
   * The class teaches useful software tools and techniques such as version control, Vim, Unix commands, shell scripting, debugging, test-driven development, continuous integration, and clean coding.
 
 * **CSE 140 – UC San Diego, Computer Science and Engineering Department (Su22)**
-  * Instructing the junior level course “Components and Design Techniques for Digital Systems”.
+  * Instructed the junior level course “Components and Design Techniques for Digital Systems”.
   * The class teaches digital logic design, using topics such as Boolean logic, finite state machines, combinational logic design, combinational modules, Mealy and Moore machines, and sequential modules.
 
 ## Teaching Assistant
