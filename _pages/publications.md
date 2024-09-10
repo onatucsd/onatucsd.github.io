@@ -26,7 +26,7 @@ author_profile: true
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **CAHEROS: Constraint-Aware HEuristic Approach for RObust Sensor Placement**. IEEE SENSORS. 2021. [PDF](https://ieeexplore.ieee.org/document/9639707)
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **ENFES: ENsemble FEw-Shot Learning for Intelligent Fault Diagnosis with Limited Data**. IEEE SENSORS. 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9639633)
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **OPELRUL: Optimally Weighted Ensemble Learner for Remaining Useful Life Prediction**. IEEE International Conference on Prognostics and Health Management (ICPHM). 2021. [PDF](https://ieeexplore.ieee.org/document/9486535)
-* **Onat Gungor**, Jake Garnier, Tajana Rosing, and Baris Aksanli. **LENARD: Lightweight ENsemble LeARner for MeDium-term Electricity Consumption Prediction**. IEEE International Conference on Smart Grid Communications (SmartGridComm). [PDF](https://ieeexplore.ieee.org/abstract/document/9303012)
+* **Onat Gungor**, Jake Garnier, Tajana Rosing, and Baris Aksanli. **LENARD: Lightweight ENsemble LeARner for MeDium-term Electricity Consumption Prediction**. 2020. IEEE International Conference on Smart Grid Communications (SmartGridComm). [PDF](https://ieeexplore.ieee.org/abstract/document/9303012)
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **RESPIRE: Robust Sensor Placement Optimization in Probabilistic Environments**. IEEE SENSORS. 2020. [PDF](https://ieeexplore.ieee.org/document/9278821) **(Best paper nominee)**
 
 ## Workshop Papers
