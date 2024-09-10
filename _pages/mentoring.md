@@ -6,6 +6,7 @@ permalink: /mentoring/
 author_profile: true
 ---
 
+In my mentoring role, I have the pleasure of collaborating with these students:
 * Fatemeh Asgarinejad (PhD): Harnessing Hyperdimensional Computing's Explainability for Adversarial Attacks; **Publication: ICCAD'24**
 * Le Zhang (MS): Energy Efficient Edge Ensemble of Convolutional Neural Networks for Resource-Optimized Learnings; **Publication: ASPDAC'25**
 * Sean Fuhrman (MS): Continual Novelty Detection for the Internet of Things Intrusion Detection
@@ -18,3 +19,8 @@ author_profile: true
 * David Anwyl, Hunter Trieu, Jiasheng Zhou, Ishaan Kale (BS): Anomaly-based Host Intrusion Detection
 * Ata Altyyev (BS): Resilient Hyperdimensional Computing Against Adversarial Attacks
 * Jake Garnier (BS): Lightweight Ensemble Learner for Medium-term Electricity Consumption Prediction; **Publication: SmartGridComm'20**
+
+I also serve as a Mentor in the following program:
+* ENLACE Summer Research Program] at UCSD
+    * Denisse Gabriela López, Mauricio Monroy, Marian Alondra Chavira, María Pimentel Villegas
+    * Optimally Weighted Ensemble Learner for Remaining Useful Life Estimation
