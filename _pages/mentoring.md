@@ -20,6 +20,6 @@ In my mentoring role, I have the pleasure of collaborating with these students:
 * Ata Altyyev (BS): Resilient Hyperdimensional Computing Against Adversarial Attacks
 * Jake Garnier (BS): Lightweight Ensemble Learner for Medium-term Electricity Consumption Prediction; **Publication: SmartGridComm'20**
 
-I also serve as a graduate mentor in the ENLACE Summer Research Program at UCSD (2021):
+I also served as a graduate mentor in the ENLACE Summer Research Program at UCSD:
 * Students: Denisse Gabriela López, Mauricio Monroy, Marian Alondra Chavira, María Pimentel Villegas
 * Project: Optimally Weighted Ensemble Learner for Remaining Useful Life Estimation
