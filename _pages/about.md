@@ -11,6 +11,7 @@ My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and 
 
 News
 ======
+* [01/25] Paper conditionally accepted in [SenSys 2025](https://sensys.acm.org/2025)!
 * [12/24] Two papers accepted in [AI4TS 2025](https://ai4ts.github.io/aaai2025)!
 * [12/24] Paper accepted in [AICS 2025](http://aics.site/AICS2025/)!
 * [09/24] Paper accepted in [ASP-DAC 2025](https://www.aspdac.com/aspdac2025/)! 
