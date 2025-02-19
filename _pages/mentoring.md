@@ -11,7 +11,7 @@ In my mentoring role, I have the pleasure of collaborating with these students:
 * Ye Tian (PhD): Large Language Models and Physical World Comprehension 
 * Fatemeh Asgarinejad (PhD): Harnessing Hyperdimensional Computing's Explainability for Adversarial Attacks; **Publication: ICCAD'24**
 * Le Zhang (MS): Energy Efficient Edge Ensemble of Convolutional Neural Networks for Resource-Optimized Learnings; **Publication: ASPDAC'25**
-* Sean Fuhrman (MS): Continual Novelty Detection for Network Intrusion Detection
+* Sean Fuhrman (MS): Continual Novelty Detection for Network Intrusion Detection; **Publication: DAC'25**
 * Ipek Kocal (MS): Resilient Time-series Classification Against Adversarial Attacks; **Publication: AI4TS'25**
 * Mohammed Ibrar (MS): Hyperdimensional Computing for RSSI-based BLE Localization
 * Mitchell Timken (MS): Machine Learning for Cyber Attack Detection in SCADA Power Systems; **Publication: SmartNets'23**
