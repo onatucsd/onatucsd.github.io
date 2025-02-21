@@ -19,9 +19,6 @@ In my mentoring role, I am currently collaborating with these amazing students:
 * Matilda Gaddi (BS): Edge-Cloud Framework for Cybersecurity Question-Answering Using LLMs
 * Ishaan Kale, Jiasheng Zhou (BS): Anomaly-based Host Intrusion Detection
 
-I also served as a graduate mentor in the ENLACE Summer Research Program at UCSD:
-* Denisse Gabriela López, Mauricio Monroy, Marian Alondra Chavira, María Pimentel Villegas: Ensemble Learning for Remaining Useful Life Estimation
-
 In the past, I had the opportunity to work with these students: 
 * Fatemeh Asgarinejad (PhD): Hyperdimensional Computing's Explainability for Adversarial Attacks; **Publication: ICCAD'24**
 * Mitchell Timken (MS): Machine Learning for Cyber Attack Detection in SCADA Power Systems; **Publication: SmartNets'23**
@@ -30,3 +27,6 @@ In the past, I had the opportunity to work with these students:
 * Johnathan Davis, Yutong Guo (BS): ML-based IDS Against Adversarial Attacks
 * Ata Altyyev (BS): Resilient Hyperdimensional Computing Against Adversarial Attacks
 * Jake Garnier (BS): Lightweight Ensemble Learner for Medium-term Electricity Consumption Prediction; **Publication: SmartGridComm'20**
+
+I also served as a graduate mentor in the ENLACE Summer Research Program at UCSD:
+* Denisse Gabriela López, Mauricio Monroy, Marian Alondra Chavira, María Pimentel Villegas: Ensemble Learning for Remaining Useful Life Estimation
