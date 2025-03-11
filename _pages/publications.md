@@ -39,5 +39,8 @@ author_profile: true
 for Secure Industrial Internet of Things**. IEEE/ACM Workshop on the Internet of Safe Things, co-located with CPS-IoT Week. 2023. [PDF](https://dl.acm.org/doi/abs/10.1145/3576914.3587484) **(Best paper runner-up)**
 * **Onat Gungor**, Umut Cakan, Reyhan Aydogan, and Pinar Ozturk. **Effect of Awareness of Other Side’s Gain on Negotiation Outcome, Emotion, Argument and Bidding Behavior**. International Workshop on Agent-Based Complex Automated Negotiation (ACAN). 2019. [PDF](https://link.springer.com/chapter/10.1007/978-981-16-0471-3_1#:~:text=We%20observed%20that%2067%25%20of,of%20the%20other%20side's%20gain.) **(Best student paper)**
 
+## Posters/Demos/Abstracts
+* Ye Tian, **Onat Gungor**, Xiaofan Yu, Tajana Rosing. **Poster Abstract: Fine-grained Contextualized Activity Logs Generation based on Multi-Modal Sensor Data and LLM**. ACM Conference on Embedded Networked Sensor Systems (SenSys). 2025. **(accepted)** 
+
 ## Thesis
 * **Onat Gungor**. Towards Intelligent, Secure, and Efficient Industrial Internet of Things. PhD Thesis. University of California San Diego and San Diego State University Joint Doctoral Program. 2023. [PDF](https://escholarship.org/uc/item/0pj2s6s3)
