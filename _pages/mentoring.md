@@ -8,7 +8,7 @@ author_profile: true
 
 In my mentoring role, I am currently collaborating with these amazing students:
 * Nilesh Prasad Pandey (PhD): Efficient Hybrid State Space Models 
-* Ye Tian (PhD): Multimodal Large Language Models and Physical World Comprehension 
+* Ye Tian (PhD): Multimodal Large Language Models and Physical World Comprehension; **Publication: SenSys'25**
 * Le Zhang (MS): Energy Efficient Edge Ensemble and Edge Cloud Collaboration; **Publications: SenSys'25, ASPDAC'25**
 * Sean Fuhrman (MS): Continual Novelty Detection for Network Intrusion Detection; **Publication: DAC'25**
 * Ipek Kocal (MS): Resilient Time-series Classification Against Adversarial Attacks; **Publication: AI4TS'25**
