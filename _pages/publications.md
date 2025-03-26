@@ -32,6 +32,8 @@ author_profile: true
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **RESPIRE: Robust Sensor Placement Optimization in Probabilistic Environments**. IEEE SENSORS. 2020. [PDF](https://ieeexplore.ieee.org/document/9278821) **(Best paper nominee)**
 
 ## Workshop Papers
+* Jing Chen, **Onat Gungor**, Zhengli Shang, Elvin Li, and Tajana Rosing. **DYNAMITE: Dynamic Defense Selection for Enhancing Machine Learning-based Intrusion Detection Against Adversarial Attacks**. IEEE/ACM Workshop on the Internet of Safe Things, co-located with 46th IEEE Symposium on
+Security and Privacy. 2025. **(accepted)**
 * **Onat Gungor**, Amanda Rios, Nilesh Ahuja, and Tajana Rosing. **TS-OOD: An Evaluation Framework for Time-Series Out-of-Distribution Detection and Prospective Directions for Progress**. AAAI Workshop on AI for Time Series Analysis (AI4TS). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2502.15901)
 * Cagla Ipek Kocal, **Onat Gungor**, Aaron Tartz, Tajana Rosing, and Baris Aksanli. **ReLATE: Resilient Learner Selection for Multivariate Time-Series Classification Against Adversarial Attacks**. AAAI Workshop on AI for Time Series Analysis (AI4TS). 2025. **(accepted)**
 * Elvin Li, Zhengli Shang, **Onat Gungor**, and Tajana Rosing. **SAFE: Self-Supervised Anomaly Detection Framework for Intrusion Detection**. AAAI Workshop on AI for Cyber Security (AICS). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2502.07119)
