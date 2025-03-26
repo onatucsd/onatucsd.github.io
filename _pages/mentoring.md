@@ -13,7 +13,7 @@ In my mentoring role, I am currently collaborating with these amazing students:
 * Sean Fuhrman (MS): Continual Novelty Detection for Network Intrusion Detection; **Publication: DAC'25**
 * Ipek Kocal (MS): Resilient Time-series Classification Against Adversarial Attacks; **Publication: AI4TS'25**
 * Abhilash Shankarampeta (MS): Adversarial Robustness of Multimodal Large Language Models 
-* Jing Chen (BS): Dynamic Defense for ML-based IDS Against Adversarial Attacks; **Publication: CSR'24**
+* Jing Chen (BS): Dynamic Defense for ML-based IDS Against Adversarial Attacks; **Publication: SafeThings'25**
 * Elvin Li, Charlie Shang (BS): Self-supervised Learning for Robust Intrusion Detection; **Publication: AICS'25**
 * Harry Wang, Roshan Sood (BS): Adversarial Cybersecurity Question Answering via LLMs
 * Matilda Gaddi (BS): Edge-Cloud Framework for Cybersecurity Question-Answering Using LLMs
@@ -24,7 +24,7 @@ In the past, I had the opportunity to work with these students:
 * Mitchell Timken (MS): Machine Learning for Cyber Attack Detection in SCADA Power Systems; **Publication: SmartNets'23**
 * Mohammed Ibrar (MS): Hyperdimensional Computing for RSSI-based BLE Localization
 * Sai Singapati, Kavan Mehta (MS): Ensemble Learning for Electricity Consumption Prediction
-* Johnathan Davis, Yutong Guo (BS): ML-based IDS Against Adversarial Attacks
+* Johnathan Davis, Yutong Guo (BS): ML-based IDS Against Adversarial Attacks **Publication: CSR'24**
 * Ata Altyyev (BS): Resilient Hyperdimensional Computing Against Adversarial Attacks
 * Jake Garnier (BS): Lightweight Ensemble Learner for Medium-term Electricity Consumption Prediction; **Publication: SmartGridComm'20**
 
