@@ -9,7 +9,6 @@ author_profile: true
 In my mentoring role, I am currently collaborating with these amazing students:
 * Nilesh Prasad Pandey (PhD): Efficient Hybrid State Space Models 
 * Ye Tian (PhD): Multimodal Large Language Models and Physical World Comprehension; **Publication: SenSys'25**
-* Le Zhang (MS): Energy Efficient Edge Ensemble and Edge Cloud Collaboration; **Publications: SenSys'25, ASPDAC'25**
 * Sean Fuhrman (MS): Continual Novelty Detection for Network Intrusion Detection; **Publication: DAC'25**
 * Ipek Kocal (MS): Resilient Time-series Classification Against Adversarial Attacks; **Publication: CSR'25, AI4TS'25**
 * Abhilash Shankarampeta (MS): Adversarial Robustness of Multimodal Large Language Models 
@@ -21,6 +20,7 @@ In my mentoring role, I am currently collaborating with these amazing students:
 
 In the past, I had the opportunity to work with these students: 
 * Fatemeh Asgarinejad (PhD): Hyperdimensional Computing's Explainability for Adversarial Attacks; **Publication: ICCAD'24**
+* Le Zhang (MS): Energy Efficient Edge Ensemble and Edge Cloud Collaboration; **Publications: SenSys'25, ASPDAC'25**
 * Mitchell Timken (MS): Machine Learning for Cyber Attack Detection in SCADA Power Systems; **Publication: SmartNets'23**
 * Mohammed Ibrar (MS): Hyperdimensional Computing for RSSI-based BLE Localization
 * Sai Singapati, Kavan Mehta (MS): Ensemble Learning for Electricity Consumption Prediction
