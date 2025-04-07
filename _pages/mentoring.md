@@ -11,7 +11,7 @@ In my mentoring role, I am currently collaborating with these amazing students:
 * Ye Tian (PhD): Multimodal Large Language Models and Physical World Comprehension; **Publication: SenSys'25**
 * Le Zhang (MS): Energy Efficient Edge Ensemble and Edge Cloud Collaboration; **Publications: SenSys'25, ASPDAC'25**
 * Sean Fuhrman (MS): Continual Novelty Detection for Network Intrusion Detection; **Publication: DAC'25**
-* Ipek Kocal (MS): Resilient Time-series Classification Against Adversarial Attacks; **Publication: AI4TS'25**
+* Ipek Kocal (MS): Resilient Time-series Classification Against Adversarial Attacks; **Publication: CSR'25, AI4TS'25**
 * Abhilash Shankarampeta (MS): Adversarial Robustness of Multimodal Large Language Models 
 * Jing Chen (BS): Dynamic Defense for ML-based IDS Against Adversarial Attacks; **Publication: SafeThings'25**
 * Elvin Li, Charlie Shang (BS): Self-supervised Learning for Robust Intrusion Detection; **Publication: AICS'25**
