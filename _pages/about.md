@@ -11,6 +11,7 @@ My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and 
 
 News
 ======
+* [04/25] Paper accepted in [CSR 2025](https://www.ieee-csr.org)!
 * [03/25] Paper accepted in [SafeThings 2025](https://safethings25.ieee-security.org)!
 * [03/25] Poster paper accepted in [SenSys 2025](https://sensys.acm.org/2025)!
 * [02/25] Paper accepted in [DAC 2025](https://www.dac.com)!
