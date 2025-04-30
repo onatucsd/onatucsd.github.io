@@ -13,6 +13,7 @@ author_profile: true
 * **Onat Gungor**, Baris Aksanli, and Reyhan Aydogan. **Algorithm Selection and Combining Multiple Learners for Residential Energy Prediction**. Future Generation Computer Systems. 2019. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19305795)  
 
 ## Conference Proceedings
+* Nilesh Prasad Pandey, Shriniwas Kulkarni, David Wang, **Onat Gungor**, Flavio Ponzina, Tajana Rosing. **DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**. ACM Great Lakes Symposium on VLSI (GLSVLSI). 2025. **(accepted)**
 * Cagla Ipek Kocal, **Onat Gungor**, Aaron Tartz, Tajana Rosing, and Baris Aksanli. **ReLATE: Resilient Learner Selection for Multivariate Time-Series Classification Against Adversarial Attacks**. IEEE International Conference on Cyber Security and Resilience (CSR). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2503.07882) 
 * Sean Fuhrman, **Onat Gungor**, Tajana Rosing. **CND-IDS: Continual Novelty Detection for Intrusion Detection Systems**. IEEE/ACM Design Automation Conference (DAC). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2502.14094)
 * Le Zhang, Quanling Zhao, Run Wang, Shirley Bian, **Onat Gungor**, Flavio Ponzina, Tajana Rosing. **ORCA: Offload Rethinking by Cloud Assistance for Efficient Environmental Sound Recognition on LPWANs**. ACM Conference on Embedded Networked Sensor Systems (SenSys). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2502.15285)
@@ -34,7 +35,7 @@ author_profile: true
 
 ## Workshop Papers
 * Jing Chen, **Onat Gungor**, Zhengli Shang, Elvin Li, and Tajana Rosing. **DYNAMITE: Dynamic Defense Selection for Enhancing Machine Learning-based Intrusion Detection Against Adversarial Attacks**. IEEE/ACM Workshop on the Internet of Safe Things, co-located with 46th IEEE Symposium on
-Security and Privacy. 2025. **(accepted)**
+Security and Privacy. 2025. **(accepted)** [PDF](https://arxiv.org/abs/2504.13301)
 * **Onat Gungor**, Amanda Rios, Nilesh Ahuja, and Tajana Rosing. **TS-OOD: An Evaluation Framework for Time-Series Out-of-Distribution Detection and Prospective Directions for Progress**. AAAI Workshop on AI for Time Series Analysis (AI4TS). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2502.15901)
 * Elvin Li, Zhengli Shang, **Onat Gungor**, and Tajana Rosing. **SAFE: Self-Supervised Anomaly Detection Framework for Intrusion Detection**. AAAI Workshop on AI for Cyber Security (AICS). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2502.07119)
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **Adversarial-HD: Hyperdimensional Computing Adversarial Attack Design
