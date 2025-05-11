@@ -11,6 +11,7 @@ My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and 
 
 News
 ======
+* [05/25] I will be presenting my research at the [CoCoSys Theme 4](https://cocosys.ece.gatech.edu/theme-4/) meeting on May 22. 
 * [05/25] Paper accepted in [GLSVLSI 2025](https://www.glsvlsi.org)!
 * [04/25] Paper accepted in [CSR 2025](https://www.ieee-csr.org)!
 * [03/25] Paper accepted in [SafeThings 2025](https://safethings25.ieee-security.org)!
