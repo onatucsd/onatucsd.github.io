@@ -11,7 +11,7 @@ My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and 
 
 News
 ======
-* [05/25] I will be presenting my ML-IDS research at the [CoCoSys Theme 4](https://cocosys.ece.gatech.edu/theme-4/) meeting on May 22.
+* [05/25] I am giving a talk at the [CoCoSys Theme 4](https://cocosys.ece.gatech.edu/theme-4/) meeting on May 22.
 * [05/25] Our paper [DYNAMITE](https://arxiv.org/abs/2504.13301) received the Best Paper Award at [SafeThings 2025](https://safethings25.ieee-security.org). 
 * [05/25] Paper accepted in [GLSVLSI 2025](https://www.glsvlsi.org)!
 * [04/25] Paper accepted in [CSR 2025](https://www.ieee-csr.org)!
