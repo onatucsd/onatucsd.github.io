@@ -8,7 +8,7 @@ author_profile: true
 
 In my mentoring role, I am currently collaborating with these amazing students:
 * Nilesh Prasad Pandey (PhD): Efficient Hybrid State Space Models; **Publication: GLSVLSI'25**
-* Ye Tian (PhD): Multimodal Large Language Models and Physical World Comprehension; **Publication: SenSys'25**
+* Ye Tian (PhD): Multimodal Large Language Models and Physical World Comprehension; **Publication: SenSys'25, MASS'25**
 * Sean Fuhrman (MS): Continual Novelty Detection for Network Intrusion Detection; **Publication: DAC'25**
 * Ipek Kocal (MS): Resilient Time-series Classification Against Adversarial Attacks; **Publication: CSR'25, AI4TS'25**
 * Abhilash Shankarampeta (MS): Adversarial Robustness of Multimodal Large Language Models 
