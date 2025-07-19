@@ -15,7 +15,6 @@ In my mentoring role, I am currently collaborating with these amazing students:
 * Jing Chen (BS): Dynamic Defense for ML-based IDS Against Adversarial Attacks; **Publication: SafeThings'25**
 * Elvin Li, Charlie Shang (BS): Self-supervised Learning for Robust Intrusion Detection; **Publication: AICS'25**
 * Harry Wang, Roshan Sood (BS): Adversarial Cybersecurity Question Answering via LLMs
-* Matilda Gaddi (BS): Edge-Cloud Framework for Cybersecurity Question-Answering Using LLMs
 * Ishaan Kale, Jiasheng Zhou (BS): Anomaly-based Host Intrusion Detection
 
 In the past, I had the opportunity to work with these students: 
