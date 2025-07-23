@@ -15,7 +15,7 @@ author_profile: true
 * **Onat Gungor**, Baris Aksanli, and Reyhan Aydogan. **Algorithm Selection and Combining Multiple Learners for Residential Energy Prediction**. Future Generation Computer Systems. 2019. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19305795)  
 
 ## Conference Proceedings
-* Ye Tian, **Onat Gungor**, Xiaofan Yu, Tajana Rosing. **DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs**. IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS). 2025. **(accepted)**
+* Ye Tian, **Onat Gungor**, Xiaofan Yu, Tajana Rosing. **DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs**. IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS). 2025. **(accepted)** [PDF](https://arxiv.org/abs/2507.13737)
 * Nilesh Prasad Pandey, Shriniwas Kulkarni, David Wang, **Onat Gungor**, Flavio Ponzina, Tajana Rosing. **DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**. ACM Great Lakes Symposium on VLSI (GLSVLSI). 2025. [PDF](https://dl.acm.org/doi/full/10.1145/3716368.3735224)
 * Cagla Ipek Kocal, **Onat Gungor**, Aaron Tartz, Tajana Rosing, and Baris Aksanli. **ReLATE: Resilient Learner Selection for Multivariate Time-Series Classification Against Adversarial Attacks**. IEEE International Conference on Cyber Security and Resilience (CSR). 2025. [PDF](https://arxiv.org/abs/2503.07882) 
 * Sean Fuhrman, **Onat Gungor**, Tajana Rosing. **CND-IDS: Continual Novelty Detection for Intrusion Detection Systems**. IEEE/ACM Design Automation Conference (DAC). 2025. [PDF](https://arxiv.org/abs/2502.14094)
