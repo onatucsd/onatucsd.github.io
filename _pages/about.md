@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and Engineering department at UC San Diego, advised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/). I have received my Ph.D. from UC San Diego and San Diego State University in December 2023. My research lies at the intersection of security, machine learning, and the Internet of Things. I am actively involved in several research centers including [PRISM](https://prism.ucsd.edu/), [CoCoSys](https://cocosys.ece.gatech.edu/), and [TILOS](https://tilos.ai/); as well as collaborate with [Intel Labs](https://www.intel.com/content/www/us/en/research/ai.html) and [Lawrence Berkeley Lab](https://www.es.net/) on various research projects.
+My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and Engineering department at UC San Diego, advised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/). I have received my Ph.D. from UC San Diego and San Diego State University in December 2023. My research aims to build AI that is efficient, secure, and reliable, with the goal of enabling dependable operation in real-world systems. I develop approaches that make AI practical on devices with limited computing power, resilient against malicious attacks, and trustworthy in the decisions it makes. My work has been recognized by the AI, systems, and cybersecurity research communities through publications in leading conferences and journals such as DATE, DAC, SenSys, AAAI, ICPR, S&P, and IoTJ. I also lead and contribute to collaborations with industry partners such as Intel Labs and Google, as well as research centers funded by SRC, DARPA, and NSF including [PRISM](https://prism.ucsd.edu/), [CoCoSys](https://cocosys.ece.gatech.edu/), and [TILOS](https://tilos.ai/). 
 
 News
 ======
+* [08/25] Excited to be on the academic job market this year! 
 * [07/25] Paper accepted in [MASS 2025](https://ieeemass2025.github.io/ieeemass2025/)!
 * [05/25] Our paper [DYNAMITE](https://arxiv.org/abs/2504.13301) received the Best Paper Award at [SafeThings 2025](https://safethings25.ieee-security.org). 
 * [05/25] Paper accepted in [GLSVLSI 2025](https://www.glsvlsi.org)!
