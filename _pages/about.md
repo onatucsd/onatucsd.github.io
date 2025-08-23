@@ -13,7 +13,7 @@ News
 ======
 * [08/25] Excited to be on the academic job market this year! 
 * [07/25] Paper accepted in [MASS 2025](https://ieeemass2025.github.io/ieeemass2025/)!
-* [05/25] Our paper [DYNAMITE](https://arxiv.org/abs/2504.13301) received the Best Paper Award at [SafeThings 2025](https://safethings25.ieee-security.org). 
+* [05/25] Our paper [DYNAMITE](https://arxiv.org/abs/2504.13301) received the Best Paper Award at [SafeThings 2025](https://safethings25.ieee-security.org)! 
 * [05/25] Paper accepted in [GLSVLSI 2025](https://www.glsvlsi.org)!
 * [04/25] Paper accepted in [CSR 2025](https://www.ieee-csr.org)!
 * [03/25] Paper accepted in [SafeThings 2025](https://safethings25.ieee-security.org)!
