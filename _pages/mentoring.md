@@ -14,8 +14,8 @@ In my mentoring role, I am currently collaborating with these amazing students:
 * Abhilash Shankarampeta (MS): Adversarial Robustness of Multimodal Large Language Models 
 * Jing Chen (BS): Dynamic Defense for ML-based IDS Against Adversarial Attacks; **Publication: SafeThings'25**
 * Elvin Li, Charlie Shang (BS): Self-supervised Learning for Robust Intrusion Detection; **Publication: AICS'25**
-* Harry Wang, Roshan Sood (BS): Adversarial Cybersecurity Question Answering via LLMs
-* Ishaan Kale, Jiasheng Zhou (BS): Anomaly-based Host Intrusion Detection
+* Harry Wang, Roshan Sood (BS): Adversarial Cybersecurity Question Answering via LLMs; **Publication: ICMLA'25**
+* Ishaan Kale, Jiasheng Zhou (BS): Anomaly-based Host Intrusion Detection; **Publication: ICMLA'25**
 
 In the past, I had the opportunity to work with these students: 
 * Fatemeh Asgarinejad (PhD): Hyperdimensional Computing's Explainability for Adversarial Attacks; **Publication: ICCAD'24**
