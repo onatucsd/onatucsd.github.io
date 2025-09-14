@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ## Journal Articles
+* Jing Chen, **Onat Gungor**, Zhengli Shang, and Tajana Rosing. **SAGE: Sample-Aware Guarding Engine for Robust Intrusion Detection Against Adversarial Attacks**. 2025. **(Under submission)** [PDF](https://arxiv.org/abs/2509.08091) 
 * Elvin Li, **Onat Gungor**, Zhengli Shang, and Tajana Rosing. **CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**. 2025. **(Under submission)** [PDF](https://arxiv.org/abs/2508.19450) 
 * Cagla Ipek Kocal, **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **ReLATE+: Unified Framework for Adversarial Attack Detection, Classification, and Resilient Model Selection in Time-Series Classification**. 2025. **(Under submission)** [PDF](https://arxiv.org/abs/2508.19456) 
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **STEWART: STacking Ensemble for White-Box AdversaRial Attacks Towards More Resilient Data-driven Predictive Maintenance**. Computers in Industry. 2022. [PDF](https://www.sciencedirect.com/science/article/pii/S0166361522000574)
