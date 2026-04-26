@@ -11,8 +11,9 @@ My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and 
 
 News
 ======
+* [04/26] I will join the [WVU EECS Department](https://lcsee.statler.wvu.edu) as a tenure-track Assistant Professor in Fall 2026! 
+* [04/26] Paper accepted in [ICCCN 2026](http://www.icccn.org/)!
 * [09/25] Two papers accepted in [ICMLA 2025](https://www.icmla-conference.org/icmla25/)!
-* [08/25] Excited to be on the academic job market this year! 
 * [07/25] Paper accepted in [MASS 2025](https://ieeemass2025.github.io/ieeemass2025/)!
 * [05/25] Our paper [DYNAMITE](https://arxiv.org/abs/2504.13301) received the Best Paper Award at [SafeThings 2025](https://safethings25.ieee-security.org)! 
 * [05/25] Paper accepted in [GLSVLSI 2025](https://www.glsvlsi.org)!
