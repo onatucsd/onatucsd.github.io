@@ -11,6 +11,7 @@ My name is Onat Gungor. I am a postdoctoral scholar in the Computer Science and 
 
 News
 ======
+* [05/26] Paper accepted in [Electronics](https://www.mdpi.com/journal/electronics)!
 * [05/26] Paper accepted in [ISLPED 2026](https://www.islped.org/2026/)!
 * [05/26] Paper accepted in [Computer Networks](https://www.sciencedirect.com/journal/computer-networks)!
 * [04/26] I will join the [Lane Department of CSEE](https://lcsee.statler.wvu.edu) at WVU as a tenure-track Assistant Professor in Fall 2026! 
