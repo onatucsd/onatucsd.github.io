@@ -7,13 +7,16 @@ author_profile: true
 ---
 
 ## Journal Articles
-* Elvin Li, **Onat Gungor**, Zhengli Shang, Jing Chen, and Tajana Rosing. **CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**. 2025. Computer Networks. 2026. [PDF](https://www.sciencedirect.com/science/article/pii/S138912862600410X)  
+* Sahil Nayak, **Onat Gungor**, and Tajana Rosing. **Security in Collaborative Driving: A Survey of Threats, Defenses, and Emerging Trends**. MDPI Electronics. 2026. 
+* Elvin Li, **Onat Gungor**, Zhengli Shang, Jing Chen, and Tajana Rosing. **CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**. Computer Networks. 2026. [PDF](https://www.sciencedirect.com/science/article/pii/S138912862600410X)  
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **STEWART: STacking Ensemble for White-Box AdversaRial Attacks Towards More Resilient Data-driven Predictive Maintenance**. Computers in Industry. 2022. [PDF](https://www.sciencedirect.com/science/article/pii/S0166361522000574)
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **DOWELL: Diversity-induced Optimally Weighted Ensemble Learner for Predictive Maintenance of Industrial Internet of Things Devices**. IEEE Internet of Things Journal. 2021. [PDF](https://ieeexplore.ieee.org/document/9484087)
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **RESPIRE++:Robust Indoor Sensor Placement Optimization under Distance Uncertainty**. IEEE Sensors Journal. 2021. [PDF](https://ieeexplore.ieee.org/document/9416575)
 * **Onat Gungor**, Baris Aksanli, and Reyhan Aydogan. **Algorithm Selection and Combining Multiple Learners for Residential Energy Prediction**. Future Generation Computer Systems. 2019. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19305795)  
 
 ## Conference Proceedings
+* Nilesh Prasad Pandey, Jangseon Park, **Onat Gungor**, Flavio Ponzina, Tajana Rosing. **QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**. IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED). 2026. [PDF](https://arxiv.org/pdf/2601.14549)
+* Jing Chen, Abhijay Deevi, **Onat Gungor**, Tajana Rosing. **CAN-QA: A Question-Answering Benchmark for Reasoning over In-Vehicle CAN Traffic**. IEEE International Conference on Computer Communications and Networks (ICCCN). 2026. [PDF](https://arxiv.org/pdf/2604.24935)  
 * **Onat Gungor**, Ishaan Kale, Jiasheng Zhou, Tajana Rosing. **LIGHT-HIDS: A Lightweight and Effective Machine Learning-Based Framework for Robust Host Intrusion Detection**. IEEE International Conference on Machine Learning and Applications (ICMLA). 2025. [PDF](https://arxiv.org/abs/2509.13464)
 * **Onat Gungor**, Roshan Sood, Harold Wang, Tajana Rosing. **AQUA-LLM: Evaluating Accuracy, Quantization, and Adversarial Robustness Trade-offs in LLMs for Cybersecurity Question Answering**. IEEE International Conference on Machine Learning and Applications (ICMLA). 2025. [PDF](https://arxiv.org/abs/2509.13514)
 * Ye Tian, **Onat Gungor**, Xiaofan Yu, Tajana Rosing. **DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs**. IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS). 2025. [PDF](https://arxiv.org/abs/2507.13737)
