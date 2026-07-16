@@ -11,6 +11,7 @@ My name is Onat Gungor, and I am an Assistant Professor in the [Lane Department 
 
 News
 ======
+* [07/26] Paper accepted in [ICMLA 2026](https://www.icmla-conference.org/icmla26/)!
 * [05/26] Paper accepted in [Electronics](https://www.mdpi.com/journal/electronics)!
 * [05/26] Paper accepted in [ISLPED 2026](https://www.islped.org/2026/)!
 * [05/26] Paper accepted in [Computer Networks](https://www.sciencedirect.com/journal/computer-networks)!
