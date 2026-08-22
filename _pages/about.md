@@ -17,7 +17,6 @@ News
 * [05/26] Paper accepted in [Electronics](https://www.mdpi.com/journal/electronics)!
 * [05/26] Paper accepted in [ISLPED 2026](https://www.islped.org/2026/)!
 * [05/26] Paper accepted in [Computer Networks](https://www.sciencedirect.com/journal/computer-networks)!
-* [04/26] I will join the [Lane Department of CSEE](https://lcsee.statler.wvu.edu) at WVU as a tenure-track Assistant Professor in Fall 2026! 
 * [04/26] Paper accepted in [ICCCN 2026](http://www.icccn.org/)!
 * [09/25] Two papers accepted in [ICMLA 2025](https://www.icmla-conference.org/icmla25/)!
 * [07/25] Paper accepted in [MASS 2025](https://ieeemass2025.github.io/ieeemass2025/)!
@@ -27,8 +26,3 @@ News
 * [03/25] Poster paper accepted in [SenSys 2025](https://sensys.acm.org/2025)!
 * [02/25] Paper accepted in [DAC 2025](https://www.dac.com)!
 * [01/25] Paper accepted in [SenSys 2025](https://sensys.acm.org/2025)!
-* [12/24] Two papers accepted in [AI4TS 2025](https://ai4ts.github.io/aaai2025)!
-* [11/24] Paper accepted in [AICS 2025](http://aics.site/AICS2025/)!
-* [09/24] Paper accepted in [ASP-DAC 2025](https://www.aspdac.com/aspdac2025/)! 
-* [08/24] Paper accepted in [ICPR 2024](https://icpr2024.org/)!
-* [07/24] Paper accepted in [ICCAD 2024](https://2024.iccad.com/)!
