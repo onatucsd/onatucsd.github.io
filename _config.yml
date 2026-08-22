@@ -24,11 +24,11 @@ author:
   avatar           : "onat_profile.png"
   name             : "Dr. Onat Gungor"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Scholar"
-  location         : "San Diego, CA"
-  employer         : "UC San Diego"
+  bio              : "Assistant Professor"
+  location         : "Morgantown, WV"
+  employer         : "West Virginia University"
   uri              : # URL
-  email            : "ogungor@ucsd.edu" 
+  email            : "onat.gungor@wvu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
