@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ## Journal Articles
+* Cagla Ipek Kocal, **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **ReLATE+: Unified Framework for Adversarial Attack Detection, Classification, and Resilient Model Selection in Time-Series Classification**. MDPI Electronics. 2026. [PDF](https://www.mdpi.com/2079-9292/15/15/3313)
 * Sahil Nayak, **Onat Gungor**, and Tajana Rosing. **Security in Collaborative Driving: A Survey of Threats, Defenses, and Emerging Trends**. MDPI Electronics. 2026. [PDF](https://www.mdpi.com/2079-9292/15/11/2389) 
 * Elvin Li, **Onat Gungor**, Zhengli Shang, Jing Chen, and Tajana Rosing. **CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**. Computer Networks. 2026. [PDF](https://www.sciencedirect.com/science/article/pii/S138912862600410X)  
 * **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **STEWART: STacking Ensemble for White-Box AdversaRial Attacks Towards More Resilient Data-driven Predictive Maintenance**. Computers in Industry. 2022. [PDF](https://www.sciencedirect.com/science/article/pii/S0166361522000574)
