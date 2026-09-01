@@ -28,7 +28,7 @@ In the past, I had the opportunity to work with these students:
 * Ishaan Kale, Jiasheng Zhou (BS): Anomaly-based Host Intrusion Detection; **Publication: ICMLA'25**
 * Jake Garnier (BS): Lightweight Ensemble Learner for Medium-term Electricity Consumption Prediction; **Publication: SmartGridComm'20**
 
-I also served as a graduate mentor in the **Early Research Scholars Program (ERSP)** and **ENLACE Summer Research Program** at UC San Diego:
+I also served as an advisor in the **Early Research Scholars Program (ERSP)** and **ENLACE Summer Research Program** at UC San Diego:
 * **ERSP:** Himansi Gupta, Ivan Delgado, Bishal Khatri, Nihraika Sapre, Lameeta Shamoon: *Tool-Augmented Question Answering for Time Series*
 * **ENLACE:** Denisse Gabriela López, Mauricio Monroy, Marian Alondra Chavira, María Pimentel Villegas: *Ensemble Learning for Remaining Useful Life Estimation*
 
