@@ -8,13 +8,13 @@ author_profile: true
 
 In my mentoring role, I am currently collaborating with these amazing students:
 * Md Asif Tanvir (PhD): Language-Driven Secure Collaborative Autonomous Driving  
-* Nilesh Prasad Pandey (PhD): Efficient Hybrid State Space Models; **Publications: ASP-DAC'27, ISLPED'26, GLSVLSI'25**
+* Nilesh Prasad Pandey (PhD): Efficient Foundation Models for Agentic Systems; **Publications: ASP-DAC'27, ISLPED'26, GLSVLSI'25**
 * Ye Tian (PhD): Large Language Models and Physical World Comprehension; **Publications: EMNLP'26, SenSys'25, MASS'25**
 * Bhavya Gupta (MS): Grounded AI for Collaborative Autonomous Driving; **Publication: ICMLA'26**
 * Gamze Kirman Tokgoz (MS): Unified Adversarial Attack and Defense for Energy Forecasting; **Publication: ISNCC'26**
 * Jing Chen (BS): Trustworthy VLAs for Safe and Secure Robotics; **Publications: ICCCN'26, SafeThings'25**
-* Sahil Nayak (BS): Robust Collaborative Driving under Temporal Misalignment; **Publication: Electronics'26**
 * Woojin Lee (BS): Multimodal Foundation Models for Healthcare Intelligence; **Publication: ISNCC'26**
+* Sahil Nayak (BS): Robust Collaborative Driving under Temporal Misalignment; **Publication: Electronics'26**
 * Roshan Sood (BS): Continual Security Alignment for LLMs; **Publications: ISNCC'26, ICMLA'25**
 
 In the past, I had the opportunity to work with these students: 
