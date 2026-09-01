@@ -9,7 +9,7 @@ author_profile: true
 In my mentoring role, I am currently collaborating with these amazing students:
 * Md Asif Tanvir (PhD): Language-Driven Secure Collaborative Autonomous Driving  
 * Nilesh Prasad Pandey (PhD): Efficient Hybrid State Space Models; **Publications: ASP-DAC'27, ISLPED'26, GLSVLSI'25**
-* Ye Tian (PhD): Multimodal Large Language Models and Physical World Comprehension; **Publication: EMNLP'26, SenSys'25, MASS'25**
+* Ye Tian (PhD): Large Language Models and Physical World Comprehension; **Publication: EMNLP'26, SenSys'25, MASS'25**
 * Jing Chen (BS): Trustworthy VLAs for Safe and Secure Robotics; **Publication: Computer Networks'26, SafeThings'25**
 * Harry Wang, Roshan Sood (BS): Adversarial Cybersecurity Question Answering via LLMs; **Publication: ICMLA'25**
 
