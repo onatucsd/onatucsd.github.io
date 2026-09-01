@@ -16,6 +16,7 @@ author_profile: true
 * **Onat Gungor**, Baris Aksanli, and Reyhan Aydogan. **Algorithm Selection and Combining Multiple Learners for Residential Energy Prediction**. Future Generation Computer Systems. 2019. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19305795)  
 
 ## Conference Proceedings
+* Ye Tian, Zihao Wang, **Onat Gungor**, Xiaoran Fan, Tajana Rosing. **LifeAgentBench: A Multi-dimensional Benchmark and Agent for Personal Health Assistants in Digital Health**. Empirical Methods in Natural Language Processing (EMNLP). 2026. [PDF](https://arxiv.org/abs/2601.13880)
 * Bhavya Gupta, **Onat Gungor**, Tajana Rosing. **G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**. IEEE International Conference on Machine Learning and Applications (ICMLA). 2026. [PDF](https://arxiv.org/pdf/2608.19964)
 * **Onat Gungor**, Roshan Sood, Jiasheng Zhou, Tajana Rosing. **EAGER: Edge-Aligned LLM Defense for Robust, Efficient, and Accurate Cybersecurity Question Answering**. IEEE International Symposium on Networks, Computers and Communications (ISNCC). 2026. [PDF](https://arxiv.org/pdf/2511.19523)
 * Woojin Lee, Pranav Mekkoth, Ye Tian, **Onat Gungor**, Tajana Rosing. **FoodCHA: Multi-Modal LLM Agent for Fine-Grained Food Analysis**. IEEE International Symposium on Networks, Computers and Communications (ISNCC). 2026. [PDF](https://arxiv.org/abs/2605.05499)
