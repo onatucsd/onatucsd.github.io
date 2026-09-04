@@ -16,7 +16,7 @@ author_profile: true
 * **Onat Gungor**, Baris Aksanli, and Reyhan Aydogan. **Algorithm Selection and Combining Multiple Learners for Residential Energy Prediction**. Future Generation Computer Systems. 2019. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19305795)  
 
 ## Conference Proceedings
-* Nilesh Prasad Pandey, Jangseon Park, Jason Kong, **Onat Gungor**, Flavio Ponzina, Tajana Rosing. **NgramRL: Accelerating RL Post-Training for Structured
+* Nilesh Prasad Pandey, Jangseon Park, Jason Kong, **Onat Gungor**, Tajana Rosing. **NgramRL: Accelerating RL Post-Training for Structured
 Generation via Rollout-Aware N-gram Speculative Decoding**. IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC). 2027.
 * Siddharth Sharma, Nilesh Prasad Pandey, **Onat Gungor**, Tajana Rosing. **LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents**. IEEE International Conference on Tools with Artificial Intelligence (ICTAI). 2026.
 * Ivan Delgado, Himansi Gupta, Lameta Shamoon, Bishal Khatri, Niharika Sapre, **Onat Gungor**, Tajana Rosing. **T-SMART: Mechanism-Level Attribution for
