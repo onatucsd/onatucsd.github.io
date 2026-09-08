@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ## Journal Articles
+* Jing Chen, **Onat Gungor**, Zhengli Shang, and Tajana Rosing. **SAGE: Sample-Aware Guarding Engine for Robust Intrusion Detection Against Adversarial Attacks**. Computer Networks. 2026. [PDF](https://arxiv.org/abs/2509.08091) 
 * Cagla Ipek Kocal, **Onat Gungor**, Tajana Rosing, and Baris Aksanli. **ReLATE+: Unified Framework for Adversarial Attack Detection, Classification, and Resilient Model Selection in Time-Series Classification**. MDPI Electronics. 2026. [PDF](https://www.mdpi.com/2079-9292/15/15/3313)
 * Sahil Nayak, **Onat Gungor**, and Tajana Rosing. **Security in Collaborative Driving: A Survey of Threats, Defenses, and Emerging Trends**. MDPI Electronics. 2026. [PDF](https://www.mdpi.com/2079-9292/15/11/2389) 
 * Elvin Li, **Onat Gungor**, Zhengli Shang, Jing Chen, and Tajana Rosing. **CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**. Computer Networks. 2026. [PDF](https://www.sciencedirect.com/science/article/pii/S138912862600410X)  
