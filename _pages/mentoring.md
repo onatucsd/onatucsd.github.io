@@ -13,7 +13,7 @@ In my mentoring role, I am currently collaborating with these amazing students:
 * Bhavya Gupta (MS): Grounded AI for Collaborative Autonomous Driving; **Publication: ICMLA'26**
 * Siddharth Sharma (MS): Lifelong Inference-Time Memory and Budget Optimization for LLM Agents; **Publication: ICTAI'26**
 * Gamze Kirman Tokgoz (MS): Unified Adversarial Attack and Defense for Energy Forecasting; **Publication: ISNCC'26**
-* Jing Chen (BS): Trustworthy VLAs for Safe and Secure Robotics; **Publications: ICCCN'26, SafeThings'25**
+* Jing Chen (BS): Trustworthy VLAs for Safe and Secure Robotics; **Publications: Computer Networks'26, ICCCN'26, SafeThings'25**
 * Woojin Lee (BS): Multimodal Foundation Models for Healthcare Intelligence; **Publication: ISNCC'26**
 * Sahil Nayak (BS): Robust Collaborative Driving under Temporal Misalignment; **Publication: Electronics'26**
 * Roshan Sood (BS): Continual Security Alignment for LLMs; **Publications: ISNCC'26, ICMLA'25**
