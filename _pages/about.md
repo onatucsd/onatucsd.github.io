@@ -10,6 +10,7 @@ My name is Onat Gungor, and I am an Assistant Professor in the [Lane Department 
 
 News
 ======
+* [09/26] Paper accepted in [NeurIPS 2026](https://neurips.cc)!
 * [09/26] Paper accepted in [Computer Networks](https://www.sciencedirect.com/journal/computer-networks)!
 * [09/26] Paper accepted in [ASP-DAC 2027](https://www.aspdac.com/aspdac2027/)!
 * [09/26] Two papers accepted in [ICTAI 2026](https://ictai.computer.org/2026/)!
