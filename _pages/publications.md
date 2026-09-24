@@ -19,10 +19,10 @@ author_profile: true
 ## Conference Proceedings
 * Nilesh Prasad Pandey, Jangseon Park, Jason Kong, **Onat Gungor**, Tajana Rosing. **NgramRL: Accelerating RL Post-Training for Structured
 Generation via Rollout-Aware N-gram Speculative Decoding**. IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC). 2027.
-* Nilesh Prasad Pandey, Jason Kong, Lanxiang Hu, Quanling Zhao, Yujie Zhao, **Onat Gungor**, Hao Zhang, Tajana Rosing. **AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems**. Neural Information Processing Systems (NeurIPS). 2026.
-* Siddharth Sharma, Nilesh Prasad Pandey, **Onat Gungor**, Tajana Rosing. **LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents**. IEEE International Conference on Tools with Artificial Intelligence (ICTAI). 2026.
+* Nilesh Prasad Pandey, Jason Kong, Lanxiang Hu, Quanling Zhao, Yujie Zhao, **Onat Gungor**, Hao Zhang, Tajana Rosing. **AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems**. Neural Information Processing Systems (NeurIPS). 2026. [PDF](https://arxiv.org/abs/2607.21604)
+* Siddharth Sharma, Nilesh Prasad Pandey, **Onat Gungor**, Tajana Rosing. **LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents**. IEEE International Conference on Tools with Artificial Intelligence (ICTAI). 2026. [PDF](https://arxiv.org/abs/2609.14138)
 * Ivan Delgado, Himansi Gupta, Lameta Shamoon, Bishal Khatri, Niharika Sapre, **Onat Gungor**, Tajana Rosing. **T-SMART: Mechanism-Level Attribution for
-Tool-Augmented Time-Series Question Answering**. IEEE International Conference on Tools with Artificial Intelligence (ICTAI). 2026.
+Tool-Augmented Time-Series Question Answering**. IEEE International Conference on Tools with Artificial Intelligence (ICTAI). 2026. [PDF](https://arxiv.org/abs/2609.14142)
 * Ye Tian, Zihao Wang, **Onat Gungor**, Xiaoran Fan, Tajana Rosing. **LifeAgentBench: A Multi-dimensional Benchmark and Agent for Personal Health Assistants in Digital Health**. Empirical Methods in Natural Language Processing (EMNLP). 2026. [PDF](https://arxiv.org/abs/2601.13880)
 * Bhavya Gupta, **Onat Gungor**, Tajana Rosing. **G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**. IEEE International Conference on Machine Learning and Applications (ICMLA). 2026. [PDF](https://arxiv.org/pdf/2608.19964)
 * **Onat Gungor**, Roshan Sood, Jiasheng Zhou, Tajana Rosing. **EAGER: Edge-Aligned LLM Defense for Robust, Efficient, and Accurate Cybersecurity Question Answering**. IEEE International Symposium on Networks, Computers and Communications (ISNCC). 2026. [PDF](https://arxiv.org/pdf/2511.19523)
