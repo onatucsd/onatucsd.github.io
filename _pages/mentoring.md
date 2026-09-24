@@ -8,7 +8,7 @@ author_profile: true
 
 In my mentoring role, I am currently collaborating with these amazing students:
 * Md Asif Tanvir (PhD): Language-Driven Secure Collaborative Autonomous Driving  
-* Nilesh Prasad Pandey (PhD): Efficient Foundation Models for Agentic Systems; **Publications: ASP-DAC'27, ISLPED'26, GLSVLSI'25**
+* Nilesh Prasad Pandey (PhD): Efficient Foundation Models for Agentic Systems; **Publications: ASP-DAC'27, NeurIPS'26, ISLPED'26**
 * Ye Tian (PhD): Large Language Models and Physical World Comprehension; **Publications: EMNLP'26, SenSys'25, MASS'25**
 * Bhavya Gupta (MS): Grounded AI for Collaborative Autonomous Driving; **Publication: ICMLA'26**
 * Siddharth Sharma (MS): Lifelong Inference-Time Memory and Budget Optimization for LLM Agents; **Publication: ICTAI'26**
