@@ -19,6 +19,7 @@ author_profile: true
 ## Conference Proceedings
 * Nilesh Prasad Pandey, Jangseon Park, Jason Kong, **Onat Gungor**, Tajana Rosing. **NgramRL: Accelerating RL Post-Training for Structured
 Generation via Rollout-Aware N-gram Speculative Decoding**. IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC). 2027.
+* Nilesh Prasad Pandey, Jason Kong, Lanxiang Hu, Quanling Zhao, Yujie Zhao, **Onat Gungor**, Hao Zhang, Tajana Rosing. **AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems**. Neural Information Processing Systems (NeurIPS). 2026.
 * Siddharth Sharma, Nilesh Prasad Pandey, **Onat Gungor**, Tajana Rosing. **LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents**. IEEE International Conference on Tools with Artificial Intelligence (ICTAI). 2026.
 * Ivan Delgado, Himansi Gupta, Lameta Shamoon, Bishal Khatri, Niharika Sapre, **Onat Gungor**, Tajana Rosing. **T-SMART: Mechanism-Level Attribution for
 Tool-Augmented Time-Series Question Answering**. IEEE International Conference on Tools with Artificial Intelligence (ICTAI). 2026.
